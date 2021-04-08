@@ -1,2 +1,2 @@
 # instructional-code
-pieces of instructional code from different courses
+Repository for collecting pieces of instructional code from different CS courses.
